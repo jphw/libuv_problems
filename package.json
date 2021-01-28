@@ -13,6 +13,6 @@
         "nan": "*"
     },
     "devDependencies": {
-        "electron": "9.0.0"
+        "electron": "9.4.0"
     }
 }
